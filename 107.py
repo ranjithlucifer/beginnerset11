@@ -1,2 +1,2 @@
 w,x,z=map(int,input().split())
-print((w*x)/2)
+print((w*x)//2)
